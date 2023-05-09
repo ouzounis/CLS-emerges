@@ -1,0 +1,10 @@
+color code for topics
+250 180 180 pink      biocomputing [1990] into protein structure [1999]
+130 150 160 bluegray  toolkits [1990] into robotics [2005]
+030 120 180 seafoam   neurocomputing [1990]
+190 190 030 olive     medical devices [1996]
+150 100 190 purple    genome informatics [1999]
+120 190 140 seagreen  pharmacogenomics [2005]
+020 190 200 skyblue   proteomics [2011]
+255 127 014 orange    immunogenomics [2020]
+end
