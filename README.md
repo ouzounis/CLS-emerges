@@ -1,5 +1,5 @@
 # CLS-emerges
-CLS stands for Computation in the Life Sciences
+CLS: Computation in the Life Sciences
 
 Describes how Computation has emerged in the Life Sciences over the years
 
